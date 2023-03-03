@@ -1,0 +1,47 @@
+Numero1 is the brother
+Numero2 is the brother
+Numero1 pergunta: nmr1: 
+Numero2 pergunta: nmr2 
+
+maiorNumero is the brother
+menorNumero is the brother
+primeiroMaior is the brother
+segundoMaior is the brother
+
+newline is the sister
+newline disse: \n
+
+primeiroMaior what is the brother Numero1 ou Numero2?
+segundoMaior what is the brother Numero2 ou Numero1?
+
+você quer ser tudo, primeiroMaior
+    maiorNumero vamos procurar viver em igualdade com Numero1
+    menorNumero vamos procurar viver em igualdade com Numero2
+e não é de nada
+
+você quer ser tudo, segundoMaior
+    maiorNumero vamos procurar viver em igualdade com Numero2
+    menorNumero vamos procurar viver em igualdade com Numero1
+e não é de nada
+
+//multiplicacao
+Continuar is the brother
+Quantidade is the brother
+Quantidade vamos procurar viver em igualdade com maiorNumero
+Zero is the brother
+Um is the brother
+Zero vale nada
+Um vale tudo
+
+numeroFinal is the brother
+
+Continuar, what is the brother Quantidade ou Um?
+
+eu não vou parar de mesclar
+    numeroFinal e  menorNumero é igual ao que, numeroFinal? 
+
+    Continuar, what is the brother Quantidade ou Um?
+    Quantidade, entre Quantidade e Um, qual é a diferença
+enquanto Continuar assim continuar
+
+numeroFinal respondeu
